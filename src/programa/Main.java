@@ -5,5 +5,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello world!");
         System.out.println("Ola emir");
+        System.out.println("emir");
     }
 }
