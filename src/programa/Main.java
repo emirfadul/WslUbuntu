@@ -8,5 +8,6 @@ public class Main {
         System.out.println("emir");
         System.out.println("oi amigo");
         System.out.println("teste");
+        System.out.println("ainda é teste");
     }
 }
