@@ -4,9 +4,18 @@ public class Produto {
     private String name;
     private Double price;
 
+    private String lastname;
     public Produto(String name, Double price) {
         this.name = name;
         this.price = price;
+    }
+
+    public String getLastname() {
+        return lastname;
+    }
+
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
     }
 
     public String getName() {
