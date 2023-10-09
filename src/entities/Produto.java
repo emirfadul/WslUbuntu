@@ -7,7 +7,9 @@ public class Produto {
     private String lastname;
     public Produto(String name, Double price) {
         this.name = name;
-        this.price = price;
+        this.price = price
+        System.out.println(name);
+
     }
 
     public String getLastname() {
